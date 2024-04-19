@@ -1,2 +1,2 @@
 # moon-pointcloud
-同济大学大学生创新创业项目SITP
+同济大学SITP创新创业项目
